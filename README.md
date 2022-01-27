@@ -31,7 +31,7 @@
 - 강의등록 페이지(내용 작성 및 AiStudio API 호출해서 비디오 등록)
 
 ### Back-end
-
+```
 ├── auth // 유저 api
 │   ├── signin.ts  로그인
 │   └── signup.ts  회원가입
@@ -45,7 +45,7 @@
 │   └── createreview.ts  수강평 등록
 │   └── getreview.ts  수강평 리스트
 ├── auth.ts  jwt 인증
-
+```
 
 ## 기술스택
 

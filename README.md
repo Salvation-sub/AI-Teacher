@@ -32,19 +32,19 @@
 
 ### Back-end
 
--├── auth // 유저 api
--│   ├── signin.ts  로그인
--│   └── signup.ts  회원가입
--├── classes // 강의 api
--│   └── createclass.tsx  강의등록
--│   └── getclass.ts  강의 디테일
--│   └── getclasses.ts  강의 리스트
--├── like  좋아요 api
--│   ├── like.ts  좋아요
--├── review  수강평 api
--│   └── createreview.ts  수강평 등록
--│   └── getreview.ts  수강평 리스트
--├── auth.ts  jwt 인증
+- ├── auth // 유저 api
+- │   ├── signin.ts  로그인
+- │   └── signup.ts  회원가입
+- ├── classes // 강의 api
+- │   └── createclass.tsx  강의등록
+- │   └── getclass.ts  강의 디테일
+- │   └── getclasses.ts  강의 리스트
+- ├── like  좋아요 api
+- │   ├── like.ts  좋아요
+- ├── review  수강평 api
+- │   └── createreview.ts  수강평 등록
+- │   └── getreview.ts  수강평 리스트
+- ├── auth.ts  jwt 인증
 
 
 ## 기술스택
